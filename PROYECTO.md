@@ -5,7 +5,7 @@
 ## Gian Franco Villca Usnayo
 ## Leandro Fernandez Denis
 
-## Fecha: 2025-11-25
+## Fecha: 2025-11-19
 
 FACULTAD NACIONAL DE INGENIERÍA — ACTUALIZACIÓN TECNOLÓGICA  
 CARRERA DE INGENIERÍA INFORMÁTICA — SIS 2420 “B”  
