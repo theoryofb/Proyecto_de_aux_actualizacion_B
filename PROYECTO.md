@@ -2,8 +2,8 @@
 
 # Actividad  — Proyecto de Finanzas Personales
 # Estudiantes:
-##Gian Franco Villca Usnayo
-##Leandro Fernandez Denis
+## Gian Franco Villca Usnayo
+## Leandro Fernandez Denis
 
 ## Fecha: 2025-11-25
 
